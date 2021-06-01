@@ -58,6 +58,7 @@ button3.addEventListener("click",addText)
 
 
 let button4 = document.createElement("button");
+button4.innerText = "ajout d'un bouton exo 4 "
 myBody.appendChild(button4);
 
 
